@@ -1,0 +1,16 @@
+{
+  "name": "androidapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^3.6.0",
+    "wd": "^1.4.1",
+    "webdriverio": "^4.8.0"
+  }
+}
